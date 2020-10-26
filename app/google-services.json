@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356191127196",
+    "firebase_url": "https://kiet-food.firebaseio.com",
+    "project_id": "kiet-food",
+    "storage_bucket": "kiet-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356191127196:android:07d0a0fab3db70e1b18f59",
+        "android_client_info": {
+          "package_name": "com.koolz.kietcookery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356191127196-vcdebo2e7rigomalkqno41ge1j02m54q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koolz.kietcookery",
+            "certificate_hash": "a86807aaaf22300751184fcf9918ad0a6b99ef71"
+          }
+        },
+        {
+          "client_id": "356191127196-nr3bic0sku3cgvpikuquh1c92ljondef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqYFdwrNVG1JahEb3KIpiwPCLK4pq52q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356191127196-nr3bic0sku3cgvpikuquh1c92ljondef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
